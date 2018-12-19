@@ -1,0 +1,23 @@
+servers:
+
+  pve:
+    override:
+      cadmins: ForeignServerAdmins
+
+  creative:
+    override:
+      padmins: ForeignServerAdmins
+
+  lobby:
+    override:
+      cadmins: ForeignServerAdmins
+      padmins: ForeignServerAdmins
+
+  minigames:
+    override:
+      cadmins: ForeignServerAdmins
+      padmins: ForeignServerAdmins
+
+  build:
+    override:
+
